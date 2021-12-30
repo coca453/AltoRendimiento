@@ -1,0 +1,498 @@
+.carousel-caption {
+    left: 5%;
+    right: 5%;
+    top: 40px;
+    bottom: auto;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    width: 5%;
+}
+
+.text-carousel-primary {
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    text-shadow: 0px 0px 6px #333333;
+    text-align: left;
+}
+
+.text-carousel-secondary {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.1px;
+    text-shadow: 0px 0px 6px #333333;
+    text-align: left;    
+}
+
+.bienvenidos {
+    color: #333333;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.1px;
+    text-align: center;  
+}
+
+.roffe {
+    color: #555555;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+.roffe-link {
+    color: #CF392B;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+.bg-bienvenidos {
+    background: url('../../../assets/img/home/bg_bienvenidos.jpg') no-repeat;
+    background-size: cover;
+}
+
+.seminario {
+    background: url('../../../assets/img/home/bg_seminario.jpg') no-repeat;
+    background-size: cover;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.container-seminario {
+    background-color: #555555;
+    padding: 0;
+}
+
+.text-seminario-primary {
+    color: #FFFFFF;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.text-seminario-secondary {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+.articulos {
+    background-color: #333333;
+    background: linear-gradient(#555555, #444444);
+}
+
+.card-header-articulos {
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+.card-body-articulos {
+    font-size: 14px;
+    letter-spacing: 0.1px;
+    text-align: justify;
+}
+
+.text-articulos {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.text-articulos-link {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+.text-frase {
+    color: #CF392B;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.bg-frase {
+    background: url('../../../assets/img/home/bg_frase.jpg') no-repeat;
+    background-size: cover;
+}
+
+.frase {
+    font-family: 'Calligraffitti', cursive;
+    color: #333333;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+.autor {
+    font-family: 'Calligraffitti', cursive;
+    color: #333333;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+.container-libros {
+    background: linear-gradient(#CF392B, #CF392B);
+    padding: 0;
+}
+
+.libros-primary {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    text-shadow: 0px 0px 10px #000000;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.libros-secondary {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    text-shadow: 0px 0px 10px #000000;
+    text-align: center;
+}
+
+.libros-link {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    text-shadow: 0px 0px 10px #000000;
+    text-align: center;
+}
+
+.bg-libros {
+    background: url('../../../assets/img/home/bg_libros.jpg') no-repeat;
+    background-size: cover;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.presentacion {
+    background-color: #CF392B;
+    background: linear-gradient(#CF392B, #B43025);    
+}
+
+.text-presentacion {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+}
+
+.text-presentacion-primary {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+}
+
+.text-presentacion-secondary {
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+}
+
+.text-presentacion-primary_2 {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+}
+
+.text-presentacion-secondary_2 {
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+}
+
+.text-videos {
+    color: #333333;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: #333333;
+}
+
+@media screen and (min-width: 320px) and (max-width: 639px) {
+    
+    .carousel-caption {
+        top: -10px;
+        bottom: auto;
+    }
+
+    .text-carousel-primary {
+        font-size: 18px;
+    }
+    
+    .text-carousel-secondary {
+        display: none !important;
+    }
+
+    .bienvenidos {
+        font-size: 18px;
+    }
+    
+    .roffe {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    
+    .roffe-link {
+        font-size: 13px;
+    }
+
+    .text-seminario-primary {
+        font-size: 17px;
+    }
+
+    .text-seminario-secondary {
+        font-size: 15px;
+    }
+
+    .text-articulos {
+        font-size: 18px;
+    }
+
+    .card-header-articulos {
+        font-size: 14px;
+    }
+    
+    .card-body-articulos {
+        font-size: 13px;
+    }
+
+    .text-articulos-link {
+        font-size: 16px;
+    }
+
+    .text-frase {
+        font-size: 18px; 
+    }
+    
+    .frase {
+        font-size: 16px;
+    }
+
+    .autor {
+        font-size: 14px;
+    }
+
+    .libros-primary {
+        font-size: 22px;
+    }
+    
+    .libros-secondary {
+        font-size: 16px;
+    }
+    
+    .libros-link {
+        font-size: 15px;
+    }
+
+    .text-videos {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 640px) and (max-width: 767px) {
+    
+    .carousel-caption {
+        top: 0;
+        bottom: auto;
+    }
+
+    .text-carousel-primary {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    
+    .text-carousel-secondary {
+        font-size: 11px;
+        margin-top: 2px !important;
+    }
+
+    .text-presentacion-primary {
+        text-align: center;
+    }
+    
+    .text-presentacion-secondary {
+        text-align: center;
+    }
+
+    .text-presentacion-primary_2 {
+        text-align: center;
+    }
+    
+    .text-presentacion-secondary_2 {
+        text-align: center;
+    }    
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    .carousel-caption {
+        top: 15px;
+        bottom: auto;
+    }
+
+    .text-carousel-primary {
+        font-size: 26px;
+        margin-bottom: 15px;
+    }
+    
+    .text-carousel-secondary {
+        font-size: 12px;
+        margin-top: 5px !important;
+    }
+
+    .bienvenidos {
+        font-size: 20px;
+    }
+    
+    .roffe {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    
+    .roffe-link {
+        font-size: 14px;
+    }
+
+    .text-seminario-primary {
+        font-size: 16px;
+    }
+
+    .text-seminario-secondary {
+        font-size: 14px;
+    }
+
+    .text-articulos {
+        font-size: 20px;
+    }
+
+    .card-header-articulos {
+        font-size: 14px;
+    }
+    
+    .card-body-articulos {
+        font-size: 12px;
+    }
+
+    .text-articulos-link {
+        font-size: 16px;
+    }
+
+    .text-frase {
+        font-size: 20px; 
+    }
+    
+    .frase {
+        font-size: 18px;
+    }
+
+    .autor {
+        font-size: 16px;
+    }
+
+    .libros-primary {
+        font-size: 24px;
+    }
+    
+    .libros-secondary {
+        font-size: 20px;
+    }
+    
+    .libros-link {
+        font-size: 16px;
+    }
+
+    .text-presentacion {
+        font-size: 18px;
+    }
+    
+    .text-presentacion-primary {
+        font-size: 13px;
+    }
+    
+    .text-presentacion-secondary {
+        font-size: 11px;
+    }
+    
+    .text-presentacion-primary_2 {
+        font-size: 12px;
+    }
+    
+    .text-presentacion-secondary_2 {
+        font-size: 10px;
+    }
+
+    .text-videos {
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1350px) {
+    
+    .text-carousel-primary {
+        font-size: 36px;
+    }
+    
+    .text-carousel-secondary {
+        font-size: 15px;
+    }
+
+    .text-presentacion {
+        font-size: 22px;
+    }
+    
+    .text-presentacion-primary {
+        font-size: 15px;
+    }
+    
+    .text-presentacion-secondary {
+        font-size: 12px;
+    }
+    
+    .text-presentacion-primary_2 {
+        font-size: 13px;
+    }
+    
+    .text-presentacion-secondary_2 {
+        font-size: 11px;
+    }
+}

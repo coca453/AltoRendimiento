@@ -1,0 +1,12 @@
+.card {
+    font-size: 13px;
+    letter-spacing: 0.1px;
+    background-color: #F8F8F8;
+}
+
+.list-group-item {
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0.2px;
+    color: #333333;    
+}

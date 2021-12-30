@@ -1,0 +1,84 @@
+.bg-header {
+    background: linear-gradient(#F0F0F0, #FAFAFA);
+}
+
+.navbar {
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.1px;
+} 
+
+.navbar-nav a {
+    color: #666666;
+    text-decoration: none;
+    position: relative;
+    padding: 0 12px;
+    z-index: 0;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.navbar-nav a:visited {
+    color: #666666;
+}
+
+.navbar-nav a:hover {
+    color: #CF392B;
+}
+
+.navbar-nav a:focus {
+    color: #666666;
+}
+
+.align-right {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+@media screen and (min-width: 320px) and (max-width: 991px) {
+
+    .logo {
+        width: 220px;
+    }
+
+    .navbar-toggler {
+        background-color: #CF392B;
+    }
+    
+    .navbar-nav {
+        background: linear-gradient(#CF392B, #B43025);
+    }
+
+    .navbar-nav a {
+        color: #FFFFFF;
+        font-weight: bold;
+        padding: 10px 10px;
+        font-size: 13px;
+    }
+
+    .navbar-nav a:visited {
+        color: #FFFFFF;
+    }
+    
+    .navbar-nav a:hover {
+        color: #FFFFFF;
+    }
+    
+    .navbar-nav a:focus {
+        color: #FFFFFF;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1350px) {
+    
+    .logo {
+        width: 240px;
+    }
+
+    .navbar-nav a {
+        padding: 0 8px;
+        font-size: 13px;
+    }
+}
