@@ -15,6 +15,8 @@ export class DataService {
   }
 
   getAll(start?: number, results?: number) {
+    console.log(this.url);
+    
     return this.http.get<any>(this.url, { params: { start: String(start), results: String(results) } });
   }
 
